@@ -59,7 +59,6 @@
 
 ## 📖 Table of Contents
 
-<div align="center">
 
 [🚨 The Problem](#-the-problem) · [💡 The Solution](#-the-solution) · [✨ Features](#-features) · [🏗️ Architecture](#️-architecture) · [🔐 Authentication](#-authentication) · [🤖 Local AI Engine](#-local-ai-engine) · [🛡️ Privacy & Security](#️-privacy--security) · [🚀 Quick Start](#-quick-start) · [🧱 Tech Stack](#-tech-stack) · [📁 Project Structure](#-project-structure) · [👥 Team](#-team)
 
