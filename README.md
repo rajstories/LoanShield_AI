@@ -285,29 +285,8 @@ SentinelGraph's authentication layer directly solves the **insider threat** — 
 
 ## 🛡️ Privacy & Security
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                  FIVE-LAYER SECURITY SHIELD                  │
-├──────────────────────────────────────────────────────────────┤
-│  Layer 1  │  PII Hashing         │  SHA-256 before storage  │
-│           │                      │  Raw Aadhaar/PAN never   │
-│           │                      │  stored in any database  │
-├──────────────────────────────────────────────────────────────┤
-│  Layer 2  │  Consent-Based       │  ULI Framework — data    │
-│           │  Access              │  queried, not retained   │
-├──────────────────────────────────────────────────────────────┤
-│  Layer 3  │  Data Minimization   │  Only anomalous nodes    │
-│           │                      │  reach the LLM engine    │
-├──────────────────────────────────────────────────────────────┤
-│  Layer 4  │  RBAC + Encryption   │  Role-limited access,    │
-│           │                      │  AES-256 at rest,        │
-│           │                      │  TLS 1.3 in transit      │
-├──────────────────────────────────────────────────────────────┤
-│  Layer 5  │  Immutable Audit     │  SHA-256 hash chain,     │
-│           │  Trail               │  RBI FMR compliant,      │
-│           │                      │  DPDP Act 2023 aligned   │
-└──────────────────────────────────────────────────────────────┘
-```
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/7911498f-4696-40a8-b8c4-b656c7883d60" />
+
 
 ---
 
