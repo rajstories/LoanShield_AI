@@ -1,10 +1,9 @@
 <!-- ANIMATED WAVE HEADER -->
 <div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=2,2,12,24,2&text=SentinelGraph&fontSize=88&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Fraud%20Ends%20Before%20The%20File%20Opens%20|%20SuRaksha%20Cyber%20Hackathon%202.0&descAlignY=75&descSize=17&stroke=a8c8ff&strokeWidth=1" width="100%"/>
 
-[![SentinelGraph](https://capsule-render.vercel.app/api?type=waving&color=0:0F2D5C,50:1B4F8C,100:4A90D9&height=280&section=header&text=SentinelGraph&fontSize=88&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Proactive%20Fraud%20Syndicate%20Detection%20for%20PSU%20Bank%20Underwriters&descAlignY=64&descSize=19&descColor=C8E6FF)](https://github.com/threatpilots/sentinelgraph)
-
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=1B4F8C&center=true&vCenter=true&random=false&width=650&lines=🔍+Detects+fraud+rings%2C+not+just+documents;🧠+Fraud+Knowledge+Graph+that+learns+over+time;🔒+Local+AI+—+data+never+leaves+the+bank;⚡+Verdict+in+under+2+minutes;🏆+SuRaksha+Cyber+Hackathon+2.0+·+Canara+Bank)](https://git.io/typing-svg)
+</div>
 
 <br/>
 
