@@ -101,19 +101,8 @@ The result? **Priya approves files she's unsure about** — because rejecting wi
 
 <div align="center">
 
-```
-Promoter/Broker ──── recruits all members, stays invisible
-     │
-     ├──► Straw Buyer ────── clean CIBIL, provides identity
-     │
-     ├──► Panel Advocate ─── certifies forged title deed
-     │
-     ├──► Empanelled Valuer ─ inflates property value 30–40%
-     │
-     ├──► Bank Insider ────── bypasses EWS flags
-     │
-     └──► Shell Company ───── pays EMIs for 12–24 months to delay suspicion
-```
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/573209dd-1510-4530-a625-a1af98f28e90" />
+
 
 </div>
 
@@ -129,10 +118,8 @@ When a new file arrives, we check if those nodes already exist in confirmed frau
 
 <div align="center">
 
-```
-REACTIVE  (everyone else):  File arrives → scan → detect → alert
-PROACTIVE (SentinelGraph):  File arrives → graph match → "already know this ring" → flag
-```
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/b0565295-8e55-42a6-821f-5dba881791e1" />
+
 
 </div>
 
