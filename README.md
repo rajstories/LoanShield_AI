@@ -3,9 +3,7 @@
   
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=2,2,12,24,2&text=SentinelGraph&fontSize=88&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Fraud%20Ends%20Before%20The%20File%20Opens%20|%20SuRaksha%20Cyber%20Hackathon%202.0&descAlignY=75&descSize=17&stroke=a8c8ff&strokeWidth=1" width="100%"/>
 
-</div>
-
-<br/>
+ <div align="center">
 
 ![Hackathon](https://img.shields.io/badge/🏆_SuRaksha_Cyber_Hackathon_2.0-Canara_Bank-1B4F8C?style=for-the-badge)
 ![Theme](https://img.shields.io/badge/Theme_1-Real--Time_Anomaly_Detection-5B21B6?style=for-the-badge)
