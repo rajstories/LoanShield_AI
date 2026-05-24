@@ -8,16 +8,6 @@
 
 <br/>
 
-<!-- SHIELD BADGES -->
-![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.110-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-5.x-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-Llama_3.1_8B-FF6B35?style=for-the-badge&logo=meta&logoColor=white)
-![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![License](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)
-
-<br/>
-
 ![Hackathon](https://img.shields.io/badge/🏆_SuRaksha_Cyber_Hackathon_2.0-Canara_Bank-1B4F8C?style=for-the-badge)
 ![Theme](https://img.shields.io/badge/Theme_1-Real--Time_Anomaly_Detection-5B21B6?style=for-the-badge)
 ![Team](https://img.shields.io/badge/Team-ThreatPilots-FF6B35?style=for-the-badge)
