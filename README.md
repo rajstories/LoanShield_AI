@@ -192,70 +192,7 @@ Plain-language Risk Card with specific, citable evidence — not a probability s
 ## 🏗️ Architecture
 
 <div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║               ZERO TRUST SECURITY SHIELD (AES-256 · TLS 1.3)            ║
-╠═══════════════════════════════════════════════════════════════════════════╣
-║                                                                           ║
-║   👤  UNDERWRITER (Priya)  ─  PSU Bank RACPC  ─  15–30 files/day       ║
-║                                                                           ║
-╠══════════════╦═══════════════════════════╦════════════════════════════════╣
-║  🔑 Passless ║  🧠 Behavioral Auth       ║  🚨 Session Anomaly Monitor  ║
-║  Login       ║  Keystroke + Mouse Dyn.   ║  JWT Revocation on Anomaly   ║
-║  WebAuthn    ║  TypingDNA Integration    ║  Insider Threat Detection     ║
-╠══════════════╩═══════════════════════════╩════════════════════════════════╣
-║                                                                           ║
-║           📂  LOAN FILE SUBMITTED  →  OCR + Parsing + Validation        ║
-║                                                                           ║
-╠═══════════════╦══════════════════════╦════════════════════════════════════╣
-║ 📄 DOCUMENT   ║  🕸️ FRAUD KNOWLEDGE  ║  🏛️ GOVERNMENT API LAYER        ║
-║ FORENSICS     ║  GRAPH               ║                                   ║
-║               ║                      ║  ◉ DILRMP                        ║
-║ ◉ PDF Meta    ║  ◉ Entity Extraction ║    Land Record Verification       ║
-║   Timestamp   ║    Nodes: borrower,  ║                                   ║
-║   Analysis    ║    advocate, valuer, ║  ◉ CERSAI                        ║
-║               ║    property, phone   ║    Mortgage Registry Check        ║
-║ ◉ Font &      ║                      ║                                   ║
-║   Stamp       ║  ◉ Graph Matching    ║  ◉ ULI / GSTN / ITR             ║
-║   Anomaly     ║    Syndicate Pattern ║    Income & Identity Verify       ║
-║   Detection   ║    Detection         ║                                   ║
-║               ║                      ║  ◉ eCourts                       ║
-║ ◉ Cross-Doc   ║  ◉ Forgery Pattern  ║    Litigation & Attachment        ║
-║   Contra-     ║    Library           ║    Check                          ║
-║   diction     ║    5000+ confirmed   ║                                   ║
-║   Engine      ║    fingerprints      ║                                   ║
-╠═══════════════╩══════════════════════╩════════════════════════════════════╣
-║                                                                           ║
-║  🔒  PRIVACY & DATA SECURITY LAYER                                       ║
-║  PII Hashing (SHA-256)  │  Consent Access (ULI)  │  Data Minimization   ║
-║  RBAC + Encryption at Rest  │  DPDP Act 2023 Compliant                  ║
-║                                                                           ║
-╠═══════════════════════════════════════════════════════════════════════════╣
-║                                                                           ║
-║  🤖  LOCAL AI INSIGHT GENERATOR  ─  Data Never Leaves Bank              ║
-║  Conditional Activation  │  Ollama + Llama 3.1 8B  │  GGUF Quantized   ║
-║  300–400 token input  │  90% cost reduction  │  < 5 second response     ║
-║                                                                           ║
-╠═══════════════════════════════════════════════════════════════════════════╣
-║                                                                           ║
-║  📋  RISK CARD DISPLAY                                                   ║
-║  ⚠ HIGH RISK — 3 issues found                                           ║
-║  1. Land mismatch: submitted 2400 sqft, DILRMP shows 1200 sqft          ║
-║  2. Advocate NPA rate: 6/8 recent approvals turned NPA                  ║
-║  3. Bank statement modified 1 day before application                    ║
-║  → Matches Fraud Pattern #17 (92% confidence)                           ║
-║  → Human Decision: [Approve]  [Escalate to RCU]                        ║
-║  → AI suggests — Human decides — BSA 2023 compliant                    ║
-║                                                                           ║
-╠═══════════════════════════════════════════════════════════════════════════╣
-║                                                                           ║
-║  📜  IMMUTABLE AUDIT TRAIL  ─  SHA-256 Hash Chain                       ║
-║  Every action logged with timestamp  │  RBI FMR Compliant               ║
-║  DPDP Act 2023 Compliant  │  Court-ready evidence chain                 ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-```
+<img width="1484" height="1060" alt="image" src="https://github.com/user-attachments/assets/7c38eb01-7c78-4978-9d20-938a87f85fdd" />
 
 </div>
 
